@@ -22,9 +22,9 @@ Tools: Excel for data transformation and Power BI for data visualization
 Based on the insights from the dataset, the following are the findings and suggested strategies to address the gender imbalance at the executive level:
 
 **Findings:**
-    - Despite similar average performance ratings for both males and females (2.31 and 2.26 respectively), there is a noticeable disparity in the promotion opportunities favoring men at higher job levels.
-    - Men dominate the Executive, Director, and Senior Manager positions, comprising around 84% of the workforce in these roles. Additionally, these positions have higher turnover rates.
-    - There is a consistent gender imbalance in new hires for Executive, Director, and Senior Manager positions, with male domination in 100%, 75%, and 70% of the positions respectively.
+-    Despite similar average performance ratings for both males and females (2.31 and 2.26 respectively), there is a noticeable disparity in the promotion opportunities favoring men at higher job levels.
+-    Men dominate the Executive, Director, and Senior Manager positions, comprising around 84% of the workforce in these roles. Additionally, these positions have higher turnover rates.
+-    There is a consistent gender imbalance in new hires for Executive, Director, and Senior Manager positions, with male domination in 100%, 75%, and 70% of the positions respectively.
 
 
 **Strategy:**
